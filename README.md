@@ -2,7 +2,7 @@
 
 # `ScreenShot of the website`
 
-![Landing Page!](images/pr1.jpgpr1.jpg)
+![Landing Page!](images/pr1.jpg)
 ### Landing Page
 ![Landing Page!](images/pr2.jpg)
 ### About Me Page
